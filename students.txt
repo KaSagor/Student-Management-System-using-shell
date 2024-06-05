@@ -1,0 +1,7 @@
+1 AnyOneFromA Dhaka CSE 77
+2 AnyOneFromB Dhaka CSE 44
+3 AnyOneFromC Bogra CSE 35
+4 AnyOneFromD Rajshahi CSE 82 VeryGood
+5 AnyOneFromE Dhaka EEE 76
+6 AnyOneFromF Bogra EEE 79
+7 AnyOneFromZ Dhaka EEE 39
